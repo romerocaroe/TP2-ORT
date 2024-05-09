@@ -1,0 +1,21 @@
+{
+  "name": "tp2-ort",
+  "version": "1.0.0",
+  "description": "Trabajo de la materia TP2 de ORT",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romerocaroe/TP2-ORT.git"
+  },
+  "author": "Carolina Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romerocaroe/TP2-ORT/issues"
+  },
+  "homepage": "https://github.com/romerocaroe/TP2-ORT#readme"
+}
