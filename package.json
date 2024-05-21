@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "npm run test",
-    "start": "node --watch index.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/romerocaroe/TP2-ORT/issues"
   },
-  "homepage": "https://github.com/romerocaroe/TP2-ORT#readme"
+  "homepage": "https://github.com/romerocaroe/TP2-ORT#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
 }
